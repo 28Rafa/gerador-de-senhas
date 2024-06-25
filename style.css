@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 
 :root{
     --branco: rgb(255, 255, 255);
@@ -6,8 +8,8 @@
     --fundo-senha: #5d7481;
     --fundo-texto: #001E40;
     --borda: #ff0077;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: 'Bebas Neue', sans-serif;
+    --roboto-mono: 'Bebas Neue', monospace;
 }
 
 *{
